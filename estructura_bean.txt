@@ -1,0 +1,8 @@
+spring-bean-config/
+│── src/main/java/com/example/config/
+│   ├── AppConfig.java  (Clase de configuración con @Bean)
+│── src/main/java/com/example/service/
+│   ├── MyService.java  (Servicio con @Service)
+│── src/main/java/com/example/component/
+│   ├── MyComponent.java  (Componente con @Component)
+│── src/main/java/com/example/MainApplication.java  (Clase principal con @SpringBootApplication)
